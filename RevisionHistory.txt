@@ -1,0 +1,10 @@
+﻿#-----------------------------------------------------
+# Revision history (B5T-007001 sample code for C#)
+#-----------------------------------------------------
+
+ver 1.0 (2018/09/11)
+    - First release
+
+ver 1.1 (2024/11/25)
+    - Resolves an issue where results acquisition stops when running detection and estimation on a Windows 10 and 11 PC.
+
